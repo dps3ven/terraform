@@ -1,0 +1,4 @@
+## here's where mileage may vary...
+
+# mysql -u foo -p'foobarbaz' -h <output from terraform here> -P 3306
+# USE your_db
